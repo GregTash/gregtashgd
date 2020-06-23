@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+
+Body {
+	width: 1024px;
+	background-image: url(images/clubstep.jpg);
+	background-color: black;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: Pacifico;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	margin-top: 635px;
+	margin-bottom: 50px;
+}
+
+.Greg1 {
+	Width: 27%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 30px solid rgb(45,85,107);
+	border-radius: 20px;
+}
+
+p {
+	color: white;
+	font-family:Spicy Rice;
+	font-size: 50px;
+	margin: 10px;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.num1 {
+	font-size: 100px;
+	color: gold;
+}
+
+.num2 {
+	font-size: 100px;
+	color: silver;
+}
+
+.num3 {
+	font-size: 100px;
+	color: rgb(205,127,50);
+}
+
+.Vid {
+	border: 12px solid white;
+	border-radius: 10px;
+}
